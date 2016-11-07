@@ -38542,7 +38542,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'Welcom Rishi!';
+        this.title = 'Welcome Rishi!';
         this.today = __WEBPACK_IMPORTED_MODULE_1__helpers_date_helper__["a" /* DateHelper */].getFormattedDate(new Date());
     }
     AppComponent.prototype.printPage = function () {
